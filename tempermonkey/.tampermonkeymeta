@@ -1,0 +1,24 @@
+// ==UserScript==
+// @name         simplelive2d插件
+// @namespace    https://github.com/SimpleZhou96/live2d-plugin
+// @description  live2d小插件
+// @author       SimpleZhou
+// @match        */*
+// @version      0.0.1
+// @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin/tempermonkey/moomintroll.ico
+// @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin/tempermonkey/runtimejs/live2d.min.js
+// @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin/tempermonkey/runtimejs/live2dcubismcore.min.js
+// @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin/tempermonkey/js/app.js
+// @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin/tempermonkey/js/chunk-vendors.js
+// @grant        GM_setValue
+// @grant        GM_getValue
+// @grant        GM_xmlhttpRequest
+// @run-at       document-idle
+// @connect      jsdelivr.net
+// @connect      github.com
+// @connect      hitokoto.cn
+// @connect      jinrishici.com
+// @connect      weibo.com
+// @connect      weibo.cn
+// @connect      bing.com
+// ==/UserScript==
