@@ -4,11 +4,11 @@
 // @description  live2d小插件
 // @author       SimpleZhou
 // @match        */*
-// @version      0.0.1
+// @version      0.1.2
 // @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin@main/tempermonkey/runtimejs/live2d.min.js
 // @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin@main/tempermonkey/runtimejs/live2dcubismcore.min.js
-// @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin@main/tempermonkey/js/chunk-vendors.0.1.1.js
-// @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin@main/tempermonkey/js/app.0.1.1.js
+// @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin@main/tempermonkey/js/chunk-vendors.0.1.2.js
+// @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin@main/tempermonkey/js/app.0.1.2.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_xmlhttpRequest
