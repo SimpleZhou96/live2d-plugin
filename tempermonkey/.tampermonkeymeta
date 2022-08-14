@@ -5,11 +5,10 @@
 // @author       SimpleZhou
 // @match        */*
 // @version      0.0.1
-// @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin@main/tempermonkey/moomintroll.ico
 // @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin@main/tempermonkey/runtimejs/live2d.min.js
 // @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin@main/tempermonkey/runtimejs/live2dcubismcore.min.js
-// @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin@main/tempermonkey/js/chunk-vendors.js
-// @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin@main/tempermonkey/js/app.js
+// @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin@main/tempermonkey/js/chunk-vendors.0.1.1.js
+// @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin@main/tempermonkey/js/app.0.1.1.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_xmlhttpRequest
@@ -21,4 +20,5 @@
 // @connect      weibo.com
 // @connect      weibo.cn
 // @connect      bing.com
+// @connect      shadiao.pro
 // ==/UserScript==
