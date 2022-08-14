@@ -3,13 +3,13 @@
 // @namespace    https://github.com/SimpleZhou96/live2d-plugin
 // @description  live2d小插件
 // @author       SimpleZhou
-// @match        zhuanlan.zhihu.com/*
+// @match        */*
 // @version      0.0.1
 // @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin@main/tempermonkey/moomintroll.ico
 // @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin@main/tempermonkey/runtimejs/live2d.min.js
 // @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin@main/tempermonkey/runtimejs/live2dcubismcore.min.js
-// @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin@main/tempermonkey/js/app.js
 // @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin@main/tempermonkey/js/chunk-vendors.js
+// @require      https://cdn.jsdelivr.net/gh/SimpleZhou96/live2d-plugin@main/tempermonkey/js/app.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_xmlhttpRequest
